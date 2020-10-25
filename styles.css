@@ -1,0 +1,224 @@
+#title {
+    background-color:#2DD7F5;
+    ;
+    color:#fff;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height:1.5;
+    padding-bottom: 2rem;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2rem;
+    line-height:1.5;
+}
+.resume{
+        font-family:"ubuntu";
+        font-weight:bold;
+       
+}
+.container-fluid{
+    padding:3% 15%;
+}
+.top{
+    font-family:'Lemonada', cursive;
+    padding-bottom: 3rem;
+}
+
+
+
+.navbar-brand {
+    font-family:"ubuntu";
+    font-size:2.5rem;
+    font-weight:bold;
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 10px;
+}
+.nav-link{
+    font-size: 1.3rem;
+    font-family: "Montserrat-light";
+}
+
+
+.title-image{
+    width: 90%;
+   padding:7% 0%;
+ 
+    
+}
+#education {
+   
+    text-align: center;
+    background-color:#0CEADD;
+    color:#fff;
+    padding-bottom: 70px;
+    padding-top: 70px;
+   
+}
+.diploma{
+    width: 60%;
+    margin: auto;
+  
+}
+
+
+
+
+.exp {
+    color: #0f0f0ff3;
+text-align: center;
+}
+#experience{
+    padding:100px;
+    text-align: center;
+    background-color: #E3E8D4;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.wrong {
+    font-family:'Lemonada', cursive;
+    padding-bottom: 2rem;
+    background-color: aqua;
+    color: #fff;
+    padding:7% 15%;
+}
+.among {
+    color:#fff;
+    background-color:#0CC8EA;
+}
+@media (max-width:100px){
+    .diploma{
+        position: static;}
+    
+@media
+(max-width:100px)
+{
+    .carousel-caption{
+        position: static;
+    }
+
+
+    }
+    
+
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        position: static;
+    }
+}
+#skillset{
+    background-color:rgb(171, 224, 245) ;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    
+}
+
+
+.one {
+    text-align: center;
+}
+.main{
+    margin-top:0%;
+    padding-bottom: 70px;
+  
+}
+
+.main h3{
+   text-align: center;
+}
+.container{
+    width:60%;
+    background-color: #2DD7F5;
+    text-align: center;
+    border-radius:5px;box-sizing:border-box;
+    padding:0;
+}
+.skills{
+    text-align:right;
+    padding-top: 10px;
+    padding-bottom:10px;
+    color:white;
+    border-radius:5px;
+    
+    
+  
+}
+.html{width:95%; background-color: red;}
+.css{width:90%; background-color:blue;}
+.java{width:87%; background-color:yellow;}
+.prob{width:85%; background-color: purple;}
+.coms{width:82%; background-color: orangered}
+.deb{width:70%; background-color: green}
+
+
+
+.no{ 
+    text-align: center;
+   
+}
+#hobbies{
+    padding-top: 70px;
+    width: 500px;
+    margin:auto;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.jumbotron{
+    background-image: url("simple.png");
+   height: 100vh;
+   background-size: cover;
+   background-position: center;
+   color:white;
+   border-radius: 0px;
+}
+.jumbotron h2{
+
+    text-align: center;
+    padding-bottom: 50px;
+}
+.jumbotron p{
+    
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 50px;
+    color:black;
+
+   
+}
+.intro{
+    padding-top: 160px;
+    text-align: center;
+}
+.intro img{
+    width:200px;
+}
+#drop{
+    background-color: #E3E8D4;
+}
+.main-form{
+    width: 450px;
+    margin:auto
+}
+#contacts{
+    background-color: #2DD7F5 ;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 70px;
+}
+.phew{
+    background-color: blanchedalmond;
+    padding-top: 60px;
+}
+    
+
